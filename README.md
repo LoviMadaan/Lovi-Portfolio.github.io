@@ -58,7 +58,7 @@
 
 > Clone this repository to your desired folder:
 
-- git clone https://github.com/LoviMadaan/My-Portfolio-desktop-version.git
+- git clone https://github.com/LoviMadaan/Lovi-Portfolio.github.io.git
 
 <!-- AUTHORS -->
 
