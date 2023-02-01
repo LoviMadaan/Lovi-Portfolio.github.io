@@ -40,6 +40,10 @@
 - Styleint
 - Technologies used
 
+## Live demo
+
+This is the [live demo](https://lovimadaan.github.io/Lovi-Portfolio.github.io/) of my portfolio project.
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
