@@ -344,6 +344,7 @@ main.active .cancel-menu {
   list-style: none;
   display: flex;
   box-sizing: border-box;
+  color: #0018F0;
 }
 
 .tag {
@@ -351,7 +352,7 @@ main.active .cancel-menu {
   font-size: 12px;
   margin-right: 12px;
   background-color: #ebebff;
-  color: #6070ff;
+  color: #0018F0;
   border-radius: 8px;
   box-sizing: border-box;
 }
