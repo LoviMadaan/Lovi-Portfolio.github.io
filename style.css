@@ -188,16 +188,20 @@ main.open-modal .main-content {
   font-size: 22px;
 }
 
-.hamburger-menu {
+.menu-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding-right: 0.2em;
   cursor: pointer;
 }
 
-.hamburger-menu > div {
-  margin-bottom: 3px;
-}
-
-.hamburger-menu > div:last-child {
-  margin-bottom: 0;
+.bar {
+  width: 20px;
+  height: 3px;
+  background-color: #6070ff;
+  border-radius: 8px;
+  list-style-type: none;
 }
 
 .nav-list {
@@ -753,7 +757,7 @@ textarea {
     margin-left: 80px;
   }
 
-  .hamburger-menu {
+  .menu-bar {
     display: none;
   }
 
