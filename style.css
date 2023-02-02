@@ -372,7 +372,7 @@ header {
   font-style: normal;
   font-weight: bold;
   line-height: 20px;
-  color: #0018F0;
+  color: #0A23FF;
   transition: transform 1s ease-in 6s;
   transform: rotate(360deg);
 }
